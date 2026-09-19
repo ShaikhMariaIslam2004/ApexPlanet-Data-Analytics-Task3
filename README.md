@@ -1,6 +1,7 @@
 # ApexPlanet Data Analytics Internship -- Task 3
 
 ## Deep-Dive Analysis & Interactive Dashboarding
+**Live Dashboard:** https://datastudio.google.com/reporting/fd06b1ec-f192-498f-9423-3b9bbade9e6b
 
 ### Intern
 
